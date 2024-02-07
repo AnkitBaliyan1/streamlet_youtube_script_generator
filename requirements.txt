@@ -1,0 +1,6 @@
+openai
+langchain
+streamlit
+langchain-openai
+python-dotenv
+duckduckgo_search

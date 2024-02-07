@@ -15,7 +15,7 @@ def generate_script(prompt,video_length, creativity, api_key):
         template = 'Create a first person script for a YouTube video based on the title for me. TITLE: {title} of duration: {duration} minutes using this search data {DuckDuckGo_Search}'
     )
 
-    llm = OpenAI(temperature = creativity, openai_api_key = api_key )
+    llm = OpenAI(temperature = creativity, openai_api_key = api_key , max_tokens = 10000)
     
     
     title_chain = LLMChain(llm=llm, prompt=title_template, verbose=True)

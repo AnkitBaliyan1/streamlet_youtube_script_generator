@@ -2,6 +2,8 @@
 
 This Streamlit web application allows users to generate YouTube video scripts effortlessly. Users can input the topic of the video, expected video length, and adjust the creativity level to tailor the script to their needs.
 
+<img width="1512" alt="Screenshot 2024-02-07 at 11 12 26 AM" src="https://github.com/AnkitBaliyan1/streamlit_youtube_script_generator/assets/86275544/e8808bb5-7748-43f2-9b1c-9bd603d1aa64">
+
 ### Features 🔥 :
 - **Customizable Script Generation:** Users can specify the topic and duration of the video, as well as adjust the creativity level to control the tone and style of the generated script.
 - **Integration with OpenAI:** Utilizes OpenAI's language model to generate natural and engaging scripts.
@@ -56,3 +58,5 @@ By following these steps, you'll be able to replicate the project on your local 
 
 ### Try it Out 🚀 :
 Give it a try and start creating engaging YouTube video scripts effortlessly!
+
+Check out the streamlit app [here](https://youtubescriptgenerator-byankit.streamlit.app)

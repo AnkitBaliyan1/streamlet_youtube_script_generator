@@ -22,13 +22,13 @@ Certainly! Here's the revised set of instructions for replicating the project on
 1. **Clone the Repository:**
     - Clone the GitHub repository to your local machine using the following command:
       ```
-      git clone <repository_url>
+      git clone https://github.com/AnkitBaliyan1/streamlit_youtube_script_generator.git
       ```
 
 2. **Navigate to Project Directory:**
     - Change your current directory to the cloned repository directory:
       ```
-      cd <repository_name>
+      cd streamlit_youtube_script_generator
       ```
 
 3. **Install Dependencies:**

@@ -42,6 +42,7 @@ if submit:
                                                        creativity=creativity, 
                                                        api_key=st.session_state["API_KEY"])
         st.success("Hope you like the script.❤️")
+        st.write("Max Token Length is 10,000")
 
         st.subheader("Title 🔥 : ")
         st.write(title)
